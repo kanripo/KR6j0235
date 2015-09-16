@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 觀自在菩薩說普賢陀羅尼經
+#+DATE: 2015-08-30 20:28:29.237242
+#+PROPERTY: JUAN 0
